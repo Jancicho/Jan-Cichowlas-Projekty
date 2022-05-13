@@ -1,7 +1,7 @@
 function [x, d] = CB_mod(A, b)
 % Funkcja rozwiązuje układ równań Ax = b zmodyfikowaną metodą 
 % Cholesky'ego- Banachiewicza oraz podaje wyznacznik maceirzy A.
-% Autor - Jan Cichowlas, grupa 4A
+% Autor - Jan Cichowlas
 % Funkcja przyjmuje jako argumenty macierz A wymiaru nxn 
 % oraz wektor b długości n.
 % Funkcja zwraca rozwiązanie x równania Ax = b.
